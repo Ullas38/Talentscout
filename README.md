@@ -1,4 +1,3 @@
-# Talentscout
 # TalentScout - Hiring Assistant Chatbot
 
 An AI-powered chatbot that collects candidate information and generates technical interview questions based on their tech stack.
